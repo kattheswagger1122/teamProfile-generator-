@@ -19,7 +19,7 @@ const addManager = () => {
         {
             type: 'input',
             name: 'name',
-            message: 'Enter information about the manager', 
+            message: 'Enter the name of the manager:', 
             validate: nameInput => {
                 if (nameInput) {
                     return true;
