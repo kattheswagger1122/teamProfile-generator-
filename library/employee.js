@@ -28,4 +28,4 @@ class Employee {
 };
 
 // to be exported 
-module.exports = Employee; 
+module.exports = Employee;
