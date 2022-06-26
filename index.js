@@ -1,5 +1,5 @@
 // function to link index.js to 
-const generateHTML = require('');
+const generateHTML = require('./pagelayout/generateHTML');
 
 // team profiles
 const Manager = require('./library/manager');
