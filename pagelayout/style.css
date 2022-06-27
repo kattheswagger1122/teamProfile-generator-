@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: rgb(213, 162, 209);
+    --secondary: white;
+    text-shadow: 8px black;
+}
+
+#navbar {
+    background-color: var(--primary);
+    color: var(--secondary);
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+.card-header {
+    background-color: pink;
+}
